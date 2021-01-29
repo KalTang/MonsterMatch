@@ -7,4 +7,4 @@ A mini game that matches the monsters
 </div>
 </br>
 
-<img src="https://i.imgur.com/0lqVR7Z.gif" alt=“Monster” width="90%">
+<img src="https://i.imgur.com/0lqVR7Z.gif" alt=“Monster” height="500px" width= auto>

@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
     private val monsters: List<Monster> = listOf(
         Monster(R.drawable.monster1_head, R.drawable.monster1_body, R.drawable.monster1_feet, "Sab"),
         Monster(R.drawable.monster2_head, R.drawable.monster2_body, R.drawable.monster2_feet, "Russ"),
-        Monster(R.drawable.monster3_head, R.drawable.monster3_body, R.drawable.monster3_feet, "Kal")
+        Monster(R.drawable.monster3_head, R.drawable.monster3_body, R.drawable.monster3_feet, "Pat")
     )
 
     private fun shuffleMonsters() {
